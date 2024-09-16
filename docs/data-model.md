@@ -114,3 +114,7 @@ All primary keys use `cuid()` (collision-resistant unique IDs). Compared to sequ
 - Safe to expose in URLs without leaking record counts
 - No coordination required for distributed inserts
 - Globally unique across tables (useful for audit log `resourceId`)
+
+## Core Models
+
+Organization, Driver, Vehicle, Delivery, Route, MaintenanceRecord.
