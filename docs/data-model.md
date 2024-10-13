@@ -118,3 +118,7 @@ All primary keys use `cuid()` (collision-resistant unique IDs). Compared to sequ
 ## Core Models
 
 Organization, Driver, Vehicle, Delivery, Route, MaintenanceRecord.
+
+## Database
+
+PostgreSQL 15+. Run `npx prisma migrate dev` to initialize.
