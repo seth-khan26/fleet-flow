@@ -86,3 +86,7 @@ The test suite includes mandatory cross-tenant isolation checks:
 - Tenant A cannot read Tenant B's deliveries, drivers, vehicles, customers, or maintenance records
 - Supplying a valid resource ID that belongs to another tenant returns 404, not the resource
 - `getTenantContext()` rejects any user not listed in the org's Membership table
+
+## Session Scoping
+
+JWT tokens include `organizationId` and `role` per request.
