@@ -90,3 +90,7 @@ The test suite includes mandatory cross-tenant isolation checks:
 ## Session Scoping
 
 JWT tokens include `organizationId` and `role` per request.
+
+## Slug Resolution
+
+URL slugs resolve to `organizationId` before any DB query runs.
