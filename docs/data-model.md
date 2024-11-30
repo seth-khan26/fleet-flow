@@ -122,3 +122,7 @@ Organization, Driver, Vehicle, Delivery, Route, MaintenanceRecord.
 ## Database
 
 PostgreSQL 15+. Run `npx prisma migrate dev` to initialize.
+
+## Local Stack
+
+`docker-compose up -d` starts PostgreSQL and Redis.
