@@ -304,3 +304,7 @@ All errors use a consistent shape:
 | 409 | `CONFLICT` | Concurrency conflict — resource already claimed |
 | 422 | `INVALID_TRANSITION` | State machine violation |
 | 500 | — | Unhandled server error |
+
+## Error Structure
+
+All errors return `{ code, message, details }` with HTTP status.
