@@ -130,3 +130,7 @@ PostgreSQL 15+. Run `npx prisma migrate dev` to initialize.
 ## Code Quality
 
 Strict TS with no-unsafe-any. Zero tolerance for implicit any.
+
+## UI Layer
+
+Tailwind + shadcn/ui for all dispatcher and driver dashboards.
