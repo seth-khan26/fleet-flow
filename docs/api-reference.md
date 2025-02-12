@@ -308,3 +308,7 @@ All errors use a consistent shape:
 ## Error Structure
 
 All errors return `{ code, message, details }` with HTTP status.
+
+## Validation
+
+Zod schemas validate all incoming delivery and driver data.
