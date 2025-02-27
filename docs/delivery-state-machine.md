@@ -110,3 +110,7 @@ The state machine has a dedicated unit test suite in `src/__tests__/delivery-sta
 - Invalid transitions including backwards steps, terminal-state escapes, and skipped steps
 - `getAvailableTransitions()` output for each status
 - Empty transition list for terminal states (`DELIVERED`, `CANCELLED`)
+
+## Transitions
+
+DRAFT→PENDING→ASSIGNED→IN_TRANSIT→DELIVERED | FAILED
