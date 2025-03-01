@@ -114,3 +114,7 @@ The state machine has a dedicated unit test suite in `src/__tests__/delivery-sta
 ## Transitions
 
 DRAFT→PENDING→ASSIGNED→IN_TRANSIT→DELIVERED | FAILED
+
+## Assignment
+
+Dispatchers assign deliveries to available drivers via API.
