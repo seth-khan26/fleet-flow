@@ -134,3 +134,7 @@ Strict TS with no-unsafe-any. Zero tolerance for implicit any.
 ## UI Layer
 
 Tailwind + shadcn/ui for all dispatcher and driver dashboards.
+
+## Vehicle Profiles
+
+Vehicles: make, model, plate, capacity, compliance status.
