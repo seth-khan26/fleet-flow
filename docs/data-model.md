@@ -138,3 +138,7 @@ Tailwind + shadcn/ui for all dispatcher and driver dashboards.
 ## Vehicle Profiles
 
 Vehicles: make, model, plate, capacity, compliance status.
+
+## Driver Profiles
+
+License class, expiry date, and certification status per driver.
