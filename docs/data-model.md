@@ -142,3 +142,7 @@ Vehicles: make, model, plate, capacity, compliance status.
 ## Driver Profiles
 
 License class, expiry date, and certification status per driver.
+
+## Inspections
+
+Pre/post-trip inspections with photo evidence and sign-off.
