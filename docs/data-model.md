@@ -146,3 +146,7 @@ License class, expiry date, and certification status per driver.
 ## Inspections
 
 Pre/post-trip inspections with photo evidence and sign-off.
+
+## Maintenance
+
+Scheduled maintenance tracks due date, odometer, and cost.
