@@ -150,3 +150,7 @@ Pre/post-trip inspections with photo evidence and sign-off.
 ## Maintenance
 
 Scheduled maintenance tracks due date, odometer, and cost.
+
+## Compliance
+
+Registration, insurance, permits — 30-day expiry alerts.
