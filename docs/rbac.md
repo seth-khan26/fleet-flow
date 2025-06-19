@@ -105,3 +105,7 @@ Putting the permission check in middleware would require the middleware to know 
 - DRIVER can only read and update deliveries
 - FLEET_MANAGER can manage vehicles and maintenance but cannot dispatch
 - OWNER has at least as many permissions as every other role
+
+## Dispatcher View
+
+Real-time view of active deliveries and driver locations.
