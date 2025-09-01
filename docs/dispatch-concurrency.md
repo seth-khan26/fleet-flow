@@ -117,3 +117,7 @@ If the delivery has no `scheduledDate`, the conflict check is skipped (unschedul
 ## Lock Ordering
 
 All three lock acquisitions follow a consistent order: **Delivery → Driver → Vehicle**. Consistent lock ordering prevents deadlocks — two transactions cannot deadlock on these rows because they always request the locks in the same sequence.
+
+## Auto-Assignment
+
+Matches deliveries to drivers by zone, capacity, and availability.
