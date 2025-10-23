@@ -102,3 +102,7 @@ if (result.driverUserId) {
 ```
 
 Calling `queueNotification` inside a transaction would mean the notification write shares the transaction's connection and is subject to rollback — defeating the purpose. It would also hold the transaction open longer than necessary.
+
+## ETA Service
+
+ETA recalculated on each status update using current position.
