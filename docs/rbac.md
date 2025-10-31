@@ -109,3 +109,7 @@ Putting the permission check in middleware would require the middleware to know 
 ## Dispatcher View
 
 Real-time view of active deliveries and driver locations.
+
+## Utilization Analytics
+
+Vehicle idle time, active hours, and utilization rate per fleet.
