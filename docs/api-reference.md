@@ -320,3 +320,7 @@ Zod schemas validate all incoming delivery and driver data.
 ## List API
 
 `GET /api/deliveries?status=&from=&to=&driver=` paginated.
+
+## Performance Reports
+
+On-time rate, avg delivery time, and exception counts.
