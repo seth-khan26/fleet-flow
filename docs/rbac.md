@@ -113,3 +113,7 @@ Real-time view of active deliveries and driver locations.
 ## Utilization Analytics
 
 Vehicle idle time, active hours, and utilization rate per fleet.
+
+## Driver Scoring
+
+Scores: on-time rate, safety events, customer feedback.
