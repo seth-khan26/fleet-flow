@@ -324,3 +324,7 @@ Zod schemas validate all incoming delivery and driver data.
 ## Performance Reports
 
 On-time rate, avg delivery time, and exception counts.
+
+## Cost Analytics
+
+Breakdown: fuel, labor, and maintenance per delivery unit.
