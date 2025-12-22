@@ -158,3 +158,7 @@ Registration, insurance, permits — 30-day expiry alerts.
 ## Driver Schedules
 
 Drivers set availability windows. System prevents over-scheduling.
+
+## Fuel Tracking
+
+Fuel logs per vehicle with cost-per-km calculation.
