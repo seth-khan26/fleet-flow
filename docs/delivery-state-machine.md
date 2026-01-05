@@ -122,3 +122,7 @@ Dispatchers assign deliveries to available drivers via API.
 ## Route Planning
 
 Routes optimized for distance with time window constraints.
+
+## Bug Report
+
+FAILED→DELIVERED transition accepted, corrupting delivery records.
