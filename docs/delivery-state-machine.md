@@ -126,3 +126,7 @@ Routes optimized for distance with time window constraints.
 ## Bug Report
 
 FAILED→DELIVERED transition accepted, corrupting delivery records.
+
+## Fix Applied
+
+Transition graph is now exhaustive — any unlisted pair throws.
