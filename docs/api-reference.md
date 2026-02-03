@@ -328,3 +328,7 @@ On-time rate, avg delivery time, and exception counts.
 ## Cost Analytics
 
 Breakdown: fuel, labor, and maintenance per delivery unit.
+
+## 422 Responses
+
+Invalid transitions return 422 with from-state and attempted state.
