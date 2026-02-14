@@ -116,3 +116,7 @@ Two indexes on the `AuditLog` table serve the two main access patterns:
 ## Delivery Events
 
 All status changes logged with actor, timestamp, and location.
+
+## Transition Audit
+
+Every change logs from-state, to-state, actor, and timestamp.
