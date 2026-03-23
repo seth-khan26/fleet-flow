@@ -12,3 +12,5 @@
 <!-- 2026-03-15 --> - Improve ETA accuracy using real traffic weight factor
 
 <!-- 2026-03-18 --> - Improve delivery exception workflow notification copy
+
+<!-- 2026-03-23 --> - Fix missing audit log entry on manual dispatch override
