@@ -162,3 +162,7 @@ Drivers set availability windows. System prevents over-scheduling.
 ## Fuel Tracking
 
 Fuel logs per vehicle with cost-per-km calculation.
+
+## Seed Data
+
+`npm run db:seed` creates org with 10 drivers and 8 vehicles.
