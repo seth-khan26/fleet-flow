@@ -14,3 +14,5 @@
 <!-- 2026-03-18 --> - Improve delivery exception workflow notification copy
 
 <!-- 2026-03-23 --> - Fix missing audit log entry on manual dispatch override
+
+<!-- 2026-03-29 --> - Add bulk status update endpoint for dispatcher tools
