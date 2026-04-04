@@ -166,3 +166,7 @@ Fuel logs per vehicle with cost-per-km calculation.
 ## Seed Data
 
 `npm run db:seed` creates org with 10 drivers and 8 vehicles.
+
+## GPS Simulator
+
+`scripts/simulate-gps.ts` streams mock location updates.
