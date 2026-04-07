@@ -18,3 +18,5 @@
 <!-- 2026-03-29 --> - Add bulk status update endpoint for dispatcher tools
 
 <!-- 2026-04-01 --> - Fix pagination state reset on delivery list filter change
+
+<!-- 2026-04-07 --> - Add pagination to driver performance leaderboard
