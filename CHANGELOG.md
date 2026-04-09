@@ -20,3 +20,5 @@
 <!-- 2026-04-01 --> - Fix pagination state reset on delivery list filter change
 
 <!-- 2026-04-07 --> - Add pagination to driver performance leaderboard
+
+<!-- 2026-04-09 --> - Fix SLA breach alert firing for already-resolved requests
