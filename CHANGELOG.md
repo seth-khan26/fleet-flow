@@ -22,3 +22,5 @@
 <!-- 2026-04-07 --> - Add pagination to driver performance leaderboard
 
 <!-- 2026-04-09 --> - Fix SLA breach alert firing for already-resolved requests
+
+<!-- 2026-04-10 --> - Add keyboard shortcut for dispatch assignment panel
