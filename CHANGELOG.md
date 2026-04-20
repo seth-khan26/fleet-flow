@@ -26,3 +26,5 @@
 <!-- 2026-04-10 --> - Add keyboard shortcut for dispatch assignment panel
 
 <!-- 2026-04-18 --> - Refactor dispatch rule engine for extensibility
+
+<!-- 2026-04-20 --> - Refactor webhook event handler for idempotency
