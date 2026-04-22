@@ -28,3 +28,5 @@
 <!-- 2026-04-18 --> - Refactor dispatch rule engine for extensibility
 
 <!-- 2026-04-20 --> - Refactor webhook event handler for idempotency
+
+<!-- 2026-04-22 --> - Improve mobile layout on driver delivery interface
