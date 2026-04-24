@@ -30,3 +30,5 @@
 <!-- 2026-04-20 --> - Refactor webhook event handler for idempotency
 
 <!-- 2026-04-22 --> - Improve mobile layout on driver delivery interface
+
+<!-- 2026-04-24 --> - Fix fuel log entry not saving on poor connectivity
