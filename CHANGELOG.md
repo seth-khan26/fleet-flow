@@ -32,3 +32,5 @@
 <!-- 2026-04-22 --> - Improve mobile layout on driver delivery interface
 
 <!-- 2026-04-24 --> - Fix fuel log entry not saving on poor connectivity
+
+<!-- 2026-04-27 --> - Add route summary view to dispatcher dashboard
