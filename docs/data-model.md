@@ -170,3 +170,7 @@ Fuel logs per vehicle with cost-per-km calculation.
 ## GPS Simulator
 
 `scripts/simulate-gps.ts` streams mock location updates.
+
+## Test Org
+
+Demo org with drivers of varying license classes and schedules.
