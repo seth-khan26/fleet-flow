@@ -34,3 +34,5 @@
 <!-- 2026-04-24 --> - Fix fuel log entry not saving on poor connectivity
 
 <!-- 2026-04-27 --> - Add route summary view to dispatcher dashboard
+
+<!-- 2026-05-04 --> - Improve compliance expiry alert scheduling accuracy
