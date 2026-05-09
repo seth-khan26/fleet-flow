@@ -36,3 +36,5 @@
 <!-- 2026-04-27 --> - Add route summary view to dispatcher dashboard
 
 <!-- 2026-05-04 --> - Improve compliance expiry alert scheduling accuracy
+
+<!-- 2026-05-09 --> - Refactor maintenance record service for reuse
