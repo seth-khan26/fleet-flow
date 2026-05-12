@@ -106,3 +106,7 @@ Calling `queueNotification` inside a transaction would mean the notification wri
 ## ETA Service
 
 ETA recalculated on each status update using current position.
+
+## Webhook Simulator
+
+`npm run webhooks:simulate` fires mock GPS and status events.
