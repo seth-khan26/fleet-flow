@@ -38,3 +38,5 @@
 <!-- 2026-05-04 --> - Improve compliance expiry alert scheduling accuracy
 
 <!-- 2026-05-09 --> - Refactor maintenance record service for reuse
+
+<!-- 2026-05-19 --> - Cache organization slug lookup to reduce latency
