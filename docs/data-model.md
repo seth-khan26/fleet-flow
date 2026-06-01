@@ -162,3 +162,7 @@ Drivers set availability windows. System prevents over-scheduling.
 ## Fuel Tracking
 
 Fuel logs per vehicle with cost-per-km calculation.
+
+## Staging Config
+
+Mirrors prod. Data anonymized from production subset.
