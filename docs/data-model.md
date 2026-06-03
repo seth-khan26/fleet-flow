@@ -166,3 +166,7 @@ Fuel logs per vehicle with cost-per-km calculation.
 ## Staging Config
 
 Mirrors prod. Data anonymized from production subset.
+
+## Staging Migrations
+
+Includes pre/post migration row-count verification.
