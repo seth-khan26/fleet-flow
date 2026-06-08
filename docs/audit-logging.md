@@ -120,3 +120,7 @@ All status changes logged with actor, timestamp, and location.
 ## Transition Audit
 
 Every change logs from-state, to-state, actor, and timestamp.
+
+## Staging Alerts
+
+Errors route to staging Slack. Not production PagerDuty.
