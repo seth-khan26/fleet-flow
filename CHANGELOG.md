@@ -40,3 +40,5 @@
 <!-- 2026-05-09 --> - Refactor maintenance record service for reuse
 
 <!-- 2026-05-19 --> - Cache organization slug lookup to reduce latency
+
+<!-- 2026-06-10 --> - Fix vehicle utilization metric double-counting idle time
