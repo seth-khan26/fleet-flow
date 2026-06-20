@@ -106,3 +106,7 @@ Calling `queueNotification` inside a transaction would mean the notification wri
 ## ETA Service
 
 ETA recalculated on each status update using current position.
+
+## Driver Mobile UI
+
+Responsive interface optimized for phones used on route.
