@@ -134,3 +134,7 @@ Transition graph is now exhaustive — any unlisted pair throws.
 ## Tests
 
 All valid and invalid transitions covered. 100% path coverage.
+
+## POD Capture
+
+Drivers capture photo and signature to complete delivery.
