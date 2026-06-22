@@ -110,3 +110,7 @@ ETA recalculated on each status update using current position.
 ## Driver Mobile UI
 
 Responsive interface optimized for phones used on route.
+
+## Push Notifications
+
+Drivers receive push alerts for new assignments and changes.
