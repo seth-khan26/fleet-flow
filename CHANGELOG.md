@@ -42,3 +42,5 @@
 <!-- 2026-05-19 --> - Cache organization slug lookup to reduce latency
 
 <!-- 2026-06-10 --> - Fix vehicle utilization metric double-counting idle time
+
+<!-- 2026-06-25 --> - Improve driver availability conflict detection logic
