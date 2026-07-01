@@ -117,3 +117,7 @@ Vehicle idle time, active hours, and utilization rate per fleet.
 ## Driver Scoring
 
 Scores: on-time rate, safety events, customer feedback.
+
+## Driver Schedule View
+
+Drivers see daily deliveries sorted by route sequence.
