@@ -134,3 +134,7 @@ Transition graph is now exhaustive — any unlisted pair throws.
 ## Tests
 
 All valid and invalid transitions covered. 100% path coverage.
+
+## Bug Report
+
+Multi-stop routes showed ETAs 2-3x the actual travel time.
