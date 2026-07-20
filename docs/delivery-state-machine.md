@@ -138,3 +138,7 @@ All valid and invalid transitions covered. 100% path coverage.
 ## Bug Report
 
 Multi-stop routes showed ETAs 2-3x the actual travel time.
+
+## Fix
+
+Distance matrix was double-counting return legs in multi-stop.
