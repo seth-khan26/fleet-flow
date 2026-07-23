@@ -46,3 +46,5 @@
 <!-- 2026-06-25 --> - Improve driver availability conflict detection logic
 
 <!-- 2026-07-16 --> - Add soft delete support for decommissioned vehicles
+
+<!-- 2026-07-23 --> - Improve delivery list query with covering index
