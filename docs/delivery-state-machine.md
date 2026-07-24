@@ -142,3 +142,7 @@ Multi-stop routes showed ETAs 2-3x the actual travel time.
 ## Fix
 
 Distance matrix was double-counting return legs in multi-stop.
+
+## Regression Tests
+
+Covers 2, 5, and 10-stop routes with known reference distances.
