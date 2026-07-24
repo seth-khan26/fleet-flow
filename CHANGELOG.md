@@ -48,3 +48,5 @@
 <!-- 2026-07-16 --> - Add soft delete support for decommissioned vehicles
 
 <!-- 2026-07-23 --> - Improve delivery list query with covering index
+
+<!-- 2026-07-24 --> - Fix driver assignment not clearing on route cancel
