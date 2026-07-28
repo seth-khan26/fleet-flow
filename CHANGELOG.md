@@ -50,3 +50,5 @@
 <!-- 2026-07-23 --> - Improve delivery list query with covering index
 
 <!-- 2026-07-24 --> - Fix driver assignment not clearing on route cancel
+
+<!-- 2026-07-28 --> - Add missing transition test for FAILED→PENDING_DISPATCH
