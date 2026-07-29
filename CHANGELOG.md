@@ -52,3 +52,5 @@
 <!-- 2026-07-24 --> - Fix driver assignment not clearing on route cancel
 
 <!-- 2026-07-28 --> - Add missing transition test for FAILED→PENDING_DISPATCH
+
+<!-- 2026-07-29 --> - Add CSV export for fleet utilization monthly report
