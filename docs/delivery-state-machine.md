@@ -118,3 +118,7 @@ DRAFT→PENDING→ASSIGNED→IN_TRANSIT→DELIVERED | FAILED
 ## Assignment
 
 Dispatchers assign deliveries to available drivers via API.
+
+## Route Planning
+
+Routes optimized for distance with time window constraints.

@@ -154,3 +154,7 @@ Scheduled maintenance tracks due date, odometer, and cost.
 ## Compliance
 
 Registration, insurance, permits — 30-day expiry alerts.
+
+## Driver Schedules
+
+Drivers set availability windows. System prevents over-scheduling.
