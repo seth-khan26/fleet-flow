@@ -312,3 +312,11 @@ All errors return `{ code, message, details }` with HTTP status.
 ## Validation
 
 Zod schemas validate all incoming delivery and driver data.
+
+## Status Updates
+
+`PATCH /api/deliveries/:id/status` validates transition first.
+
+## List API
+
+`GET /api/deliveries?status=&from=&to=&driver=` paginated.

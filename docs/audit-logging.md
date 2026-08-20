@@ -112,3 +112,7 @@ Two indexes on the `AuditLog` table serve the two main access patterns:
 
 1. `[organizationId, createdAt DESC]` — powers the paginated audit log page (most recent first, scoped to tenant)
 2. `[resourceType, resourceId]` — powers the per-delivery activity log on the delivery detail page
+
+## Delivery Events
+
+All status changes logged with actor, timestamp, and location.
