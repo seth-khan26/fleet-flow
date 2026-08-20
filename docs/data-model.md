@@ -134,3 +134,23 @@ Strict TS with no-unsafe-any. Zero tolerance for implicit any.
 ## UI Layer
 
 Tailwind + shadcn/ui for all dispatcher and driver dashboards.
+
+## Vehicle Profiles
+
+Vehicles: make, model, plate, capacity, compliance status.
+
+## Driver Profiles
+
+License class, expiry date, and certification status per driver.
+
+## Inspections
+
+Pre/post-trip inspections with photo evidence and sign-off.
+
+## Maintenance
+
+Scheduled maintenance tracks due date, odometer, and cost.
+
+## Compliance
+
+Registration, insurance, permits — 30-day expiry alerts.
